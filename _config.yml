@@ -1,0 +1,13 @@
+markdown: rdiscount
+ygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Alex Bard
+url: http://www.alexbard.me
+description: A Nerd in progress
+twitter: bardworx
+github: bardworx
+gravatar_url: http://www.gravatar.com/avatar/62499891f6df4ff5d47eaf849b46d0c7.png
