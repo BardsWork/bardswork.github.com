@@ -9,9 +9,9 @@ a {
 
 .sidebar {
   position: fixed;
-  left: 15px;
+  left: 150px;
   top: 15px;
-  width: 100px;
+  width: 200px;
   font-family: Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -19,8 +19,9 @@ a {
     padding: 0 3px;
     border: 0; }
   .sidebar .avatar {
+    display: block;
     padding: 0;
-    margin-left: 2px;
+    margin-left: 70;
     border-radius: 5px; }
   .sidebar .name {
     text-transform: uppercase;
@@ -59,7 +60,7 @@ a {
 
 .content {
   max-width: 650px;
-  margin-left: 110px;
+  margin-left: 375px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1 {
@@ -201,3 +202,4 @@ a {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
+}
