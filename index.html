@@ -6,9 +6,9 @@ title: "Posts"
 <section class="content">
   <ul class="listing">
     {% for post in site.posts %}
-    <li align="center">
+    <li>
         <h1 align="center"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	<p>{{ post.excerpt }}</p>
+	<p style="text-align:right">{{ post.excerpt }}</p>
     </li>
     {% endfor %}
   </ul>
