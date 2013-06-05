@@ -1,9 +1,8 @@
 ---
 layout: post
-title: OSX Mountain Lion Hacks
+title: OSX Hacks
 category: posts
 ---
-
 
 Are there annoyances in OS X Mountain Lion that bug you to hell? Are you mad that you can’t hold one key to type a line of A's or wish you could have shut off the Notification Center? Well, you’re in luck because today we will list some of the more useful commands in Terminal that can do just that, and so much more.
 
