@@ -15,9 +15,9 @@ is right for you, however, I believe the "12 Client" rule is good as any to base
 So now that we went over the introduction lets get on with the Port Forwarding:
 
 To Port Forward in this device, with Enhanced OS, you have two different options. If you are making basic port forwarding, then you can use the wizard on the
-upper right hand side of your admin panel - it's fairly straightforward.
+upper right hand side of your admin panel - it's fairly straight forward.
 
-On the other hand, if you have to forward unconventional ports, the wizard won't exactly cut it. There are four steps in the process, so let's get started.
+On the other hand, if you have to forward unconventional ports, the wizard woun't exactly cut it. There are four steps in the process, so let's get started.
 
 ## Step 1
 You have to create an Address Object, which is located in your Network settings. Once you are in the panel, click ADD and you will be taken to a preference window.
@@ -32,14 +32,14 @@ First, you should add the Service on the lower portion of the screen. Here you w
 for to forward (UDP, TCP, etc.) and an IP range for which your ports will need to be forwarded.
 
 Some camera computers might require you to forward TCP as well as UDP ports, in this scenario you will create multiple Services - once the Services have been created
-you can then add them to a custom group to make your life easier.
+you can then add then to a custome group to make your life easier.
 
 ## Step 3
-Next, we move to NAT Policies, where you will perform most of your actual routing. Here you might need to create several different Policies to accomplish your
+Next, we move to NAT Policies, where you will perform most of your actual routing. Here you might need to create several difference Policies to accomplish your
 task. Considering that at times you will need to add Inbound and Outbound policies to comply with your needs, you will have to create each instance individually.
 
 The settings are fairly straight-forward here as you choose the Original and Destination Source, as well as the Translated option. The Original is where your traffic
-will be coming from, and the Destination will be where it is going. For Inbound connection, the Translated signal will be WAN Primary IP and for the Destination
+will be comming from, and the Destination will be where it is going. For Inbound connection, the Translated signal will be WAN Primary IP and for the Destination
 you will choose your Address Object that you want to forward to.
 
 Afterwards you will choose the Services that contain the port forwarding information and choose Original as Translated (this will work for most options).
@@ -50,7 +50,7 @@ It is always a good practice to Comment your work, in the event that you need to
 
 ## Step 4
 Finally we get to the final portion of this brief overview. You will need to go into Firewall and choose the Access Rules panel. Here you will simply choose a Matrix
-of where your connection is coming from and where it is going to and then selecting Source, and Destination.
+of where your connection is coming from and where it is going to and then selecing Source, and Destination.
 
 Here you are just allowing all the information to pass through the firewall, and thinking logically through how the signal flows from Origin to Destination, you
 will easily pick the right options. 
@@ -69,5 +69,3 @@ Hopefully this was an easy tutorial to follow, but if you run into any issues, p
 [zh]: http://zachholman.com
 [left]: https://github.com/holman/left#readme
 [twitter]: https://twitter.com/bardworx
-
-
