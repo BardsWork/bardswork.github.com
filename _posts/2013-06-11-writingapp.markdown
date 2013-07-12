@@ -10,7 +10,7 @@ Don't get me wrong, I love writing, but pen and paper? Still....really?
 
 The last statement sounded like I was some privileged, generation X/Y/Don't know what I am, asshole but hear me out.
 
-First, I don't think that using pen and paper is passe, I love writing down notes while in a meeting or doing re-search, but I am also fabulously famous for misplacing my notes. I usually write in this recycled paper type "moleskin" notebook that I "borrow" from the Creative Department and still I manage to forget them everywhere. 
+First, I don't think that using pen and paper is passé, I love writing down notes while in a meeting or doing re-search, but I am also fabulously famous for misplacing my notes. I usually write in this recycled paper type "moleskin" notebook that I "borrow" from the Creative Department and still I manage to forget them everywhere. 
 
 Yes, there are alternatives, pens that will sync with your computer of choice, typing everything via keyboard, or recording thoughts/meetings with some kind of app or device. I know I can purchase Livescribe pen for $168 to sync my notes with Evernote but the pen is large, ugly, and just another thing to lose.
 
