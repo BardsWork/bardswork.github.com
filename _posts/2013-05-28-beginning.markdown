@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Switch Careers for Beginners (from X to Technology)
+title: How to Switch Careers for Beginners (From X to Tech)
 category: posts
 ---
 
