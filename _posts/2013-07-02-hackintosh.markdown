@@ -25,7 +25,6 @@ If you're interested in participating, here are a few links that you might find 
 After a few weeks with my new re-incarnated PC I have definitely come to the realization that I need better hardware to have a smoother experience. Otherwise I'm able to re-download my apps that were purchased at home, get all features, besides iMessage (which I don't use), to work and haven't had a single complaint. For my next build, a $500 investment will get me pretty much decent computer that can handle anything that I can throw at it. Who said Mac's have to be expensive?
 
 
-
 Thanks for reading.
 ---
 
