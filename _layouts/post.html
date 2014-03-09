@@ -6,7 +6,10 @@ layout: layout
   <h1>
     <a href="{{ page.url }}">{{ page.title }}</a>
   </h1>
-</section>
+
+  <section class="byline">
+    {{ page.date | date: "%B %e, %Y" }}
+  </section>
 
   {{ content }}
 
@@ -21,7 +24,7 @@ layout: layout
       <p>
         I'm an IT Manager at a Starup in NYC and a curious tech enthusiast. If you like, you can 
 	<a href="https://twitter.com/{{ site.twitter }}" target="_blank">follow me on Twitter</a>&mdash;
-        At times, I write on <a href ="http://abard.kinja.com/">Kinja</a> and cook - which is my escape.
+        At times, I write fiction and write my own open source stuff.
       </p>
 
       <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}">Tweet</a>
