@@ -4,6 +4,7 @@ title: KISS Searies - Networking 101
 category: posts
 ---
 
+<img class="imageplaceholder" src="http://i.kinja-img.com/gawker-media/image/upload/ksftdat6dp2gzfkfgksi.jpg">
  
 For the first installment of this K.I.S.S. (Keep It Simple Stupid) Tech series, I will focus on the basic concepts of the home network. In the beginning of each article there will be K.I.S.S. Bullets to generalize what will be covered, then Meat & Potatoes of the topic to give an overview of each concept, and, in conclusion, the Brain Scratch section which will expand on the topic for the curious. Let's get started.
 
