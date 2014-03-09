@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KISS Searies - Networking 101	
+title: KISS Tech Searies - Networking 101	
 category: posts
 ---
 
