@@ -6,15 +6,15 @@ category: posts
 
 <img class="imageplaceholder" src="http://i.kinja-img.com/gawker-media/image/upload/ksftdat6dp2gzfkfgksi.jpg">
  
-For the first installment of this K.I.S.S. (Keep It Simple Stupid) Tech series, I will focus on the basic concepts of the home network. In the beginning of each article there will be K.I.S.S. Bullets to generalize what will be covered, then Meat & Potatoes of the topic to give an overview of each concept, and, in conclusion, the Brain Scratch section which will expand on the topic for the curious. Let's get started.
+For the first installment of this K.I.S.S. (Keep It Simple Stupid) Tech series, I will focus on the basic concepts of the home network. In the beginning of each article there will be **K.I.S.S. Bullets** to generalize what will be covered, then **Meat & Potatoes** of the topic to give an overview of each concept, and, in conclusion, the **Brain Scratch** section which will expand on the topic for the curious. Let's get started.
 
 How Does Your (Home) Network, work.
 
 The goal of this section is to explain your home network, which will be the foundation for later, and larger, discussions on the Internet as a whole. Our K.I.S.S. Bullets" are:
 
-Cover common terms (i.e. Modem, Router, IP, DHCP, Host).
-Explain how a simple home network operates and information is routed from ISP (Internet Service Provider) to your PC, and beyond.
-Build understanding for future, larger, Internet conversation.
++ Cover common terms (i.e. Modem, Router, IP, DHCP, Host).
++ Explain how a simple home network operates and information is routed from ISP (Internet Service Provider) to your PC, and beyond.
++ Build understanding for future, larger, Internet conversation.
 Meat & Potatoes of Home Networking
 
 Your internet at home starts with your ISP (Internet Service Provider) and a Modem - a Modem is a device that receives a signal from your ISP and then sends this signal to-and-fro. Its main job is to send, and receive, a signals - that's it. Think of a Modem like a telephone, it gets hooked up to a line, that has service, and then you can either receive a telephone call or send a telephone call.
